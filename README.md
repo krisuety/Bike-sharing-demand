@@ -1,3 +1,3 @@
 # Bike-sharing-demand
 
-## Data Science School : Data-thon
+Data Science School : Data-thon
